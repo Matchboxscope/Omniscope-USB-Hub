@@ -1,0 +1,39 @@
+### Missing 3D models - created on 2023-12-09 20:21
+### Printed by checking_3D_models plugin
+Board file: /Users/bene/Dropbox/Dokumente/Promotion/PROJECTS/Omniscope-USB-Hub/USB 2.0 Hub.kicad_pcb
+3D missing models written to:
+/Users/bene/Dropbox/Dokumente/Promotion/PROJECTS/Omniscope-USB-Hub/USB 2.0 Hub_missing3Dmodels.txt
+-------
+('C4', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('C6', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('C10', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('R11', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('C1', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('R1', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('D2', '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.wrl')
+('R6', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('R2', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('J2', '/Users/bene/Dropbox/Dokumente/Promotion/PROJECTS/Omniscope-USB-Hub/modules/packages3D/Connector_USB.3dshapes/C-UTC009.step')
+('C9', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('C11', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('C5', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('C2', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('J3', '/Users/bene/Dropbox/Dokumente/Promotion/PROJECTS/Omniscope-USB-Hub/modules/packages3D/Connector_USB.3dshapes/C-UTC009.step')
+('C8', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('J5', '/Users/bene/Dropbox/Dokumente/Promotion/PROJECTS/Omniscope-USB-Hub/modules/packages3D/Connector_USB.3dshapes/C-UTC009.step')
+('C3', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('U1', '${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-16_4.55x10.3mm_P1.27mm.wrl')
+('R4', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('R10', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('R3', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('R5', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('D1', '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_1206_3216Metric.wrl')
+('R8', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('R9', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('J1', '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl')
+('C7', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('R7', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('J4', '/Users/bene/Dropbox/Dokumente/Promotion/PROJECTS/Omniscope-USB-Hub/modules/packages3D/Connector_USB.3dshapes/C-UTC009.step')
+-------
+NUM of 3D missing models:30
+checked extensions ['.stp', '.step', '.stpZ']
